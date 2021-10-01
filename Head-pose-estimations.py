@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 31 03:00:36 2020
 
-@author: hp
-"""
 
 import cv2
 import numpy as np
